@@ -1,9 +1,1 @@
-function add(a,b){
-    return a+b;
-}
-
-function multiply(a,b){
-    return a*b;
-}
-
-console.log(multiply(5,4));
+function divide(a, b){ return b/a;}
